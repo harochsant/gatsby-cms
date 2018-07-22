@@ -1,6 +1,6 @@
 ---
 templateKey: 'pricing-page'
-path: /pricing
+path: /prislista
 title: Prislista
 ---
 ### Shade-grown coffee
