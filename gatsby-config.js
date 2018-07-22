@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: 'Gatsby + Netlify CMS Starter',
+    title: 'Hår & Sån\'t',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
